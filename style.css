@@ -1,0 +1,21 @@
+body{
+  background-image: linear-gradient(to right, #9ba8b3, #E1E8ED, #AAB8C2);
+ margin-left: 25%;
+
+}
+hr{
+  width: 35%;
+  margin-left: 5px;
+  height: 2px;
+  
+}
+
+.error{
+  color: red;
+}
+
+
+
+
+
+
